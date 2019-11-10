@@ -11,7 +11,8 @@
     "react",
     "react native",
     "typescript",
-    "prettier"
+    "prettier",
+    "a11y"
   ],
   "repository": {
     "type": "git",
@@ -22,7 +23,7 @@
     "url": "https://github.com/gabbes/eslint-config-react-native-typescript/issues"
   },
   "peerDependencies": {
-    "eslint": "^6.6.0"
+    "eslint": "^5.16.0"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^2.6.1",
