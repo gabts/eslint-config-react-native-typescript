@@ -4,7 +4,8 @@
 
 ## ⭐ Features
 
-- Non-intrusive rules, only yells at you for your own good.
+- Recommended React, React Hooks and React Native rules in a single config!
+- Non-intrusive rules, only yells at you for your own good!
 - Nib any cyclic imports the the bud before they cause issues with import/export linting!
 - Screen reader friendier apps thanks to linting common Accessibility issues!
 - Plays nice together with [Prettier](https://github.com/prettier/prettier)!
