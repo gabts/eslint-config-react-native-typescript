@@ -51,8 +51,8 @@ This configuration is the result of a combination of multiple other configuratio
 
 ## Changelog
 
-Changes between versions are documented [here](./CHANGELOG).
+Changes between versions are documented [here](./CHANGELOG.md).
 
 ## License
 
-[MIT](./LICENSE).
+[MIT](./LICENSE)
