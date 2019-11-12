@@ -6,7 +6,7 @@
 
 - Non-intrusive rules, only yells at you for your own good.
 - Nib any cyclic imports the the bud before they cause issues with import/export linting!
-- Screen readers friendier app thanks to linting common Accessibility issues!
+- Screen reader friendier apps thanks to linting common Accessibility issues!
 - Plays nice together with [Prettier](https://github.com/prettier/prettier)!
 
 ## Installation
@@ -25,7 +25,7 @@ Extend the config in your `.eslintrc` file.
 
 ## Configuration
 
-Simply override any rule by assigning new settings below the extends section in your `.eslintrc` file. E.g:
+Simply override any rule by assigning new settings below the extends section in your `.eslintrc` file.
 
 ```json
 {
