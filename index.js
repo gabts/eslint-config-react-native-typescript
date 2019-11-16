@@ -47,6 +47,7 @@ module.exports = {
     "import/no-cycle": 2,
     "import/no-default-export": 1,
     "import/no-duplicates": 1,
+    "no-console": 0,
     "react/prop-types": 0,
     "react-hooks/exhaustive-deps": 1,
     "react-hooks/rules-of-hooks": 2
