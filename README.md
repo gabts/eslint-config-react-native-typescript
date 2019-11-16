@@ -39,6 +39,12 @@ Simply override any rule by assigning new settings below the extends section in 
 
 ## Dependencies
 
+Your project needs ESLint and TypeScript installed for this config to work correctly.
+
+```sh
+yarn add typescript eslint
+```
+
 This configuration is the result of a combination of multiple other configurations and plugins. Please explore them further and feel free to extend any additional rules you might find as detailed above.
 
 - [eslint](https://github.com/eslint/eslint)
