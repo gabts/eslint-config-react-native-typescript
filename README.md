@@ -41,6 +41,7 @@ Simply override any rule by assigning new settings below the extends section in 
 
 This configuration is the result of a combination of multiple other configurations and plugins. Please explore them further and feel free to extend any additional rules you might find as detailed above.
 
+- [eslint](https://github.com/eslint/eslint)
 - [@typescript-eslint](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin)
 - [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
 - [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
