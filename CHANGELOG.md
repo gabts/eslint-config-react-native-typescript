@@ -1,6 +1,10 @@
 # Changelog
 
-## 1.0.2 - 12-10-2019
+## 1.0.3 - 16-11-2019
+
+- Disable no-console rule.
+
+## 1.0.2 - 12-11-2019
 
 - Extend eslint:recommended and @typescript-eslint/eslint-recommended.
 
