@@ -22,6 +22,9 @@
   "bugs": {
     "url": "https://github.com/gabbes/eslint-config-react-native-typescript/issues"
   },
+  "scripts": {
+    "commit": "git-cz"
+  },
   "peerDependencies": {
     "eslint": "^5.0.0",
     "typescript": "^3.2.0"
@@ -35,5 +38,13 @@
     "eslint-plugin-react-hooks": "^2.3.0",
     "eslint-plugin-react-native": "^3.8.1",
     "eslint-plugin-react-native-a11y": "^1.2.0"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
