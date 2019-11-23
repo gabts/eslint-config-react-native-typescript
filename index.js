@@ -20,7 +20,13 @@ module.exports = {
     "prettier/react"
   ],
 
-  plugins: ["import", "react-hooks", "react-native", "react-native-a11y"],
+  plugins: [
+    "import",
+    "import-order-alphabetical",
+    "react-hooks",
+    "react-native",
+    "react-native-a11y"
+  ],
 
   env: {
     "react-native/react-native": true
@@ -47,6 +53,7 @@ module.exports = {
     "import/no-cycle": 2,
     "import/no-default-export": 1,
     "import/no-duplicates": 1,
+    "import-order-alphabetical/order": 1,
     "no-console": 0,
     "react/prop-types": 0,
     "react-hooks/exhaustive-deps": 1,
