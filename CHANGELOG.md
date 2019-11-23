@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.5 - xx-11-2019
+
+- Enable react-native/no-unused-styles.
+- Enable react-native/no-single-element-style-array rules.
+
 ## 1.0.4 - 23-11-2019
 
 - Add import-order-alphabetical plugin.
