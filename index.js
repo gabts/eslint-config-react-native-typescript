@@ -39,23 +39,31 @@ module.exports = {
   },
 
   rules: {
+    // eslint
+    "no-console": 0,
+
+    // @typescript-eslint
     "@typescript-eslint/explicit-function-return-type": [
       1,
-      {
-        allowExpressions: true,
-        allowTypedFunctionExpressions: true
-      }
+      { allowExpressions: true, allowTypedFunctionExpressions: true }
     ],
     "@typescript-eslint/no-unused-vars": 0,
     "@typescript-eslint/no-use-before-define": 0,
+
+    // import
     "import/first": 1,
     "import/newline-after-import": 1,
     "import/no-cycle": 2,
     "import/no-default-export": 1,
     "import/no-duplicates": 1,
+
+    // import-order-alphabetical
     "import-order-alphabetical/order": 1,
-    "no-console": 0,
+
+    // react
     "react/prop-types": 0,
+
+    // react-hooks
     "react-hooks/exhaustive-deps": 1,
     "react-hooks/rules-of-hooks": 2
   }
