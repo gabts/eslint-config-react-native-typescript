@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.5 - xx-11-2019
+## 1.0.5 - xx-xx-xxxx
 
 - Enable react-native/no-unused-styles.
 - Enable react-native/no-single-element-style-array rules.
@@ -9,7 +9,7 @@
 
 - Add import-order-alphabetical plugin.
 - Upgrade eslint-config-prettier to ^6.7.0.
-- Upgrade @typescript-eslint/eslint-plugin and @typescript-eslint/eslint-plugin to ^2.8.0.
+- Upgrade @typescript-eslint/eslint-plugin and @typescript-eslint/parser to ^2.8.0.
 
 ## 1.0.3 - 16-11-2019
 
