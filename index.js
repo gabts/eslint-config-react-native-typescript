@@ -65,6 +65,10 @@ module.exports = {
 
     // react-hooks
     "react-hooks/exhaustive-deps": 1,
-    "react-hooks/rules-of-hooks": 2
+    "react-hooks/rules-of-hooks": 2,
+
+    // react-native
+    "react-native/no-unused-styles": 1,
+    "react-native/no-single-element-style-arrays": 1
   }
 };
