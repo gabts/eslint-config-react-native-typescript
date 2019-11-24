@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.5 - xx-xx-xxxx
+## 1.0.5 - 24-11-2019
 
 - Enable react-native/no-unused-styles.
 - Enable react-native/no-single-element-style-array rules.
