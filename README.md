@@ -51,6 +51,7 @@ This configuration is the result of a combination of multiple other configuratio
 - [@typescript-eslint](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin)
 - [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
 - [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
+- [eslint-plugin-import-order-alphabetical](https://github.com/janpaul123/eslint-plugin-import-order-alphabetical)
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
 - [eslint-plugin-react-hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks)
 - [eslint-plugin-react-native](https://github.com/Intellicode/eslint-plugin-react-native)
