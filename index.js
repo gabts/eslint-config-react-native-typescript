@@ -39,9 +39,6 @@ module.exports = {
   },
 
   rules: {
-    // eslint
-    "no-console": 0,
-
     // @typescript-eslint
     "@typescript-eslint/explicit-function-return-type": [
       1,
