@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.6 - 2019-12-04
+
+- Upgrade eslint-plugin-react to ^7.17.0.
+- Upgrade eslint-plugin-react-native-a11y to ^1.3.0.
+- Upgrade @typescript-eslint/eslint-plugin and @typescript-eslint/parser to ^2.10.0.
+- Change eslint peer dependency version to ^6.0.0 as that is supported by all dependencies now.
+- Remove no-console rule as eslint/recommended constains the same value since version ^6.
+
 ## 1.0.5 - 2019-11-24
 
 - Enable react-native/no-unused-styles.
