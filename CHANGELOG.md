@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.7 - 2020-01-04
+## 1.1.0 - 2020-01-04
 
 - Enable default export for ./App.tsx.
 - Set config ECMA version to 2020.
