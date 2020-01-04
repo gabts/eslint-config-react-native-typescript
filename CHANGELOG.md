@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.7 - 2020-01-04
+
+- Enable default export for ./App.tsx.
+- Set config ECMA version to 2020.
+- Upgrade @typescript-eslint/eslint-plugin and @typescript-eslint/parser to ^2.14.0.
+- Upgrade eslint-config-prettier to ^6.9.0.
+- Upgrade eslint-plugin-import: ^2.19.1.
+
 ## 1.0.6 - 2019-12-04
 
 - Upgrade eslint-plugin-react to ^7.17.0.
