@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gabbes/eslint-config-react-native-typescript.git"
+    "url": "https://github.com/gabts/eslint-config-react-native-typescript.git"
   },
   "bugs": {
-    "url": "https://github.com/gabbes/eslint-config-react-native-typescript/issues"
+    "url": "https://github.com/gabts/eslint-config-react-native-typescript/issues"
   },
   "scripts": {
     "commit": "git-cz"
