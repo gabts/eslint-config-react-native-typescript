@@ -67,5 +67,14 @@ module.exports = {
     // react-native
     "react-native/no-unused-styles": 1,
     "react-native/no-single-element-style-arrays": 1
-  }
+  },
+
+  overrides: [
+    {
+      files: ["./App.tsx"],
+      rules: {
+        "import/no-default-export": 0
+      }
+    }
+  ]
 };
