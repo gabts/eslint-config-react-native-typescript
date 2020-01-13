@@ -1,12 +1,18 @@
 # Changelog
 
+## 1.x.x - xxxx-xx-xx
+
+- Upgrade @typescript-eslint/eslint-plugin and @typescript-eslint/parser to ^2.16.0.
+- Upgrade eslint-plugin-import to ^2.20.0.
+- Upgrade eslint-plugin-react-native-a11y to ^1.3.1.
+
 ## 1.1.0 - 2020-01-04
 
 - Enable default export for ./App.tsx.
 - Set config ECMA version to 2020.
 - Upgrade @typescript-eslint/eslint-plugin and @typescript-eslint/parser to ^2.14.0.
 - Upgrade eslint-config-prettier to ^6.9.0.
-- Upgrade eslint-plugin-import: ^2.19.1.
+- Upgrade eslint-plugin-import to ^2.19.1.
 
 ## 1.0.6 - 2019-12-04
 
