@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.x.x - xxxx-xx-xx
+## 1.1.1 - 2020-01-13
 
 - Upgrade @typescript-eslint/eslint-plugin and @typescript-eslint/parser to ^2.16.0.
 - Upgrade eslint-plugin-import to ^2.20.0.
