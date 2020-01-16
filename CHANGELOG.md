@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.0 - 2020-01-16
+
+- Enable import/no-unresolved.
+- Upgrade eslint-plugin-react to ^7.18.0.
+
 ## 1.1.1 - 2020-01-13
 
 - Upgrade @typescript-eslint/eslint-plugin and @typescript-eslint/parser to ^2.16.0.
