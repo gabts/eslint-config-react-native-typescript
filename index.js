@@ -53,6 +53,7 @@ module.exports = {
     "import/no-cycle": 2,
     "import/no-default-export": 1,
     "import/no-duplicates": 1,
+    "import/no-unresolved": 2,
 
     // import-order-alphabetical
     "import-order-alphabetical/order": 1,
