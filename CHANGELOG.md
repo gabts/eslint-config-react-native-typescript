@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.0 - xxxx-xx-xx
+
+- Change @typescript-eslint/no-empty-interface to warning instead of error.
+
 ## 1.2.0 - 2020-01-16
 
 - Enable import/no-unresolved.
