@@ -39,6 +39,18 @@ module.exports = {
   },
 
   rules: {
+    // eslint
+    curly: 1,
+    "default-case": 1,
+    eqeqeq: 1,
+    "no-catch-shadow": 1,
+    "no-fallthrough": 1,
+    "no-loop-func": 1,
+    "no-shadow": 1,
+    "no-shadow-restricted-names": 1,
+    "valid-typeof": 1,
+    yoda: 1,
+
     // @typescript-eslint
     "@typescript-eslint/explicit-function-return-type": [
       1,
