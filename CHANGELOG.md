@@ -1,8 +1,19 @@
 # Changelog
 
-## 1.3.0 - xxxx-xx-xx
+## 1.3.0 - 2020-01-22
 
+- Upgrade @typescript-eslint/eslint-plugin and @typescript-eslint/parser to ^2.17.0.
 - Change @typescript-eslint/no-empty-interface to warning instead of error.
+- Enable curly.
+- Enable default-case.
+- Enable eqeqeq.
+- Enable no-catch-shadow.
+- Enable no-fallthrough.
+- Enable no-loop-func.
+- Enable no-shadow.
+- Enable no-shadow-restricted-names.
+- Enable valid-typeof.
+- Enable yoda.
 
 ## 1.2.0 - 2020-01-16
 
