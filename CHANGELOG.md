@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.3.1 - 2020-02-25
+
+- Upgrade @typescript-eslint/eslint-plugin to ^2.21.0.
+- Upgrade @typescript-eslint/parser to ^2.21.0.
+- Upgrade eslint-config-prettier to ^6.10.0.
+- Upgrade eslint-plugin-import to ^2.20.1.
+- Upgrade eslint-plugin-react to ^7.18.3.
+- Upgrade eslint-plugin-react-hooks to ^2.4.0.
+
 ## 1.3.0 - 2020-01-22
 
 - Upgrade @typescript-eslint/eslint-plugin and @typescript-eslint/parser to ^2.17.0.
