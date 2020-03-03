@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.4.0 - 2020-03-03
+
+- Disable @typescript-eslint/explicit-function-return-type to allow implicit return types.
+- Upgrade @typescript-eslint/eslint-plugin to ^2.22.0.
+- Upgrade @typescript-eslint/parser to ^2.22.0.
+- Upgrade eslint-plugin-react-hooks to ^2.5.0.
+
 ## 1.3.1 - 2020-02-25
 
 - Upgrade @typescript-eslint/eslint-plugin to ^2.21.0.
