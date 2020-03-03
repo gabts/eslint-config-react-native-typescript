@@ -52,10 +52,7 @@ module.exports = {
     yoda: 1,
 
     // @typescript-eslint
-    "@typescript-eslint/explicit-function-return-type": [
-      1,
-      { allowExpressions: true, allowTypedFunctionExpressions: true }
-    ],
+    "@typescript-eslint/explicit-function-return-type": 0,
     "@typescript-eslint/no-empty-interface": 1,
     "@typescript-eslint/no-unused-vars": 0,
     "@typescript-eslint/no-use-before-define": 0,
