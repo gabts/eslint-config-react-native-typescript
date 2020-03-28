@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.0.0 - 2020-03-28
+
+- Extend @react-native-community/eslint-config
+- Remove @typescript-eslint/eslint-plugin
+- Remove @typescript-eslint/parser
+- Remove eslint-plugin-react
+- Remove eslint-plugin-react-hooks
+- Remove eslint-plugin-react-native
+
 ## 1.5.0 - 2020-03-27
 
 - Re-enable @typescript-eslint/explicit-function-return-type.
