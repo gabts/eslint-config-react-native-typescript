@@ -20,7 +20,10 @@ module.exports = {
     "import/no-unresolved": 2,
 
     // eslint-plugin-import-order-alphabetical
-    "import-order-alphabetical/order": 1
+    "import-order-alphabetical/order": 1,
+
+    // eslint-plugin-react-native
+    "react-native/no-unused-styles": 1
   },
 
   overrides: [
