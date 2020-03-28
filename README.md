@@ -45,10 +45,6 @@ Your project needs ESLint and TypeScript installed for this config to work corre
 yarn add typescript eslint
 ```
 
-## 📝 Changelog
-
-Changes between versions are documented [here](./CHANGELOG.md).
-
 ## 📜 License
 
 [MIT](./LICENSE)
