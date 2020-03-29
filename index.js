@@ -22,6 +22,9 @@ module.exports = {
     // eslint-plugin-import-order-alphabetical
     "import-order-alphabetical/order": 1,
 
+    // eslint-plugin-react
+    "react/prop-types": 0,
+
     // eslint-plugin-react-native
     "react-native/no-unused-styles": 1
   },
