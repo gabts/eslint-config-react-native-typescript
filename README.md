@@ -24,6 +24,12 @@ Extend the config in your `.eslintrc` file.
 }
 ```
 
+## 👼🏻 Does this work with vanilla JavaScript?
+
+Yes!
+
+It's named react-native-typescript because when it was originally made [@react-native-community/eslint-config](https://github.com/facebook/react-native/tree/master/packages/eslint-config-react-native-community) did not have TypeScript support. Now it instead extends [@react-native-community/eslint-config](https://github.com/facebook/react-native/tree/master/packages/eslint-config-react-native-community) to take advanage of their accumulated work but add additional features on top of that.
+
 ## 🧙 Configuration
 
 Simply override any rule by assigning new settings below the extends section in your `.eslintrc` file.
