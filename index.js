@@ -26,6 +26,9 @@ module.exports = {
     "react/prop-types": 0,
 
     // eslint-plugin-react-native
+    "react-native/no-color-literals": 1,
+    "react-native/no-inline-styles": 1,
+    "react-native/no-single-element-style-arrays": 1,
     "react-native/no-unused-styles": 1
   },
 
