@@ -32,7 +32,7 @@ It's named react-native-typescript because when it was originally made [@react-n
 
 ## 🧙 Configuration
 
-Simply override any rule by assigning new settings below the extends section in your `.eslintrc` file.
+Simply override any rule by assigning new rules in your `.eslintrc` file.
 
 ```json
 {
