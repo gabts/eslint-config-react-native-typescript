@@ -44,7 +44,7 @@ module.exports = {
       ],
       files: ["*.ts", "*.tsx"],
       parser: "@typescript-eslint/parser",
-      plugins: ["@typescript-eslint/eslint-plugin"],
+      plugins: ["@typescript-eslint/eslint-plugin", "typescript-sort-keys"],
       rules: {
         "@typescript-eslint/explicit-function-return-type": [
           1,
@@ -53,7 +53,17 @@ module.exports = {
         "@typescript-eslint/no-empty-interface": 1,
         "@typescript-eslint/no-unused-vars": [2, { argsIgnorePattern: "^_" }],
         "@typescript-eslint/no-use-before-define": 0,
-        "no-unused-vars": 0
+        "no-unused-vars": 0,
+        "typescript-sort-keys/interface": [
+          2,
+          "asc",
+          { caseSensitive: false, natural: true }
+        ],
+        "typescript-sort-keys/string-enum": [
+          2,
+          "asc",
+          { caseSensitive: false, natural: true }
+        ]
       }
     }
   ]
