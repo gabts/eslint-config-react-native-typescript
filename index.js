@@ -12,9 +12,6 @@ module.exports = {
   plugins: ["import", "import-order-alphabetical", "react-native-a11y"],
 
   rules: {
-    // eslint
-    "sort-keys": [1, "asc", { caseSensitive: false, natural: true }],
-
     // eslint-plugin-import
     "import/first": 1,
     "import/newline-after-import": 1,
