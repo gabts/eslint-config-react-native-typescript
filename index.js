@@ -57,16 +57,6 @@ module.exports = {
         "@typescript-eslint/no-unused-vars": [1, { argsIgnorePattern: "^_" }],
         "@typescript-eslint/no-use-before-define": 0,
         "no-unused-vars": 0,
-        "typescript-sort-keys/interface": [
-          2,
-          "asc",
-          { caseSensitive: false, natural: true }
-        ],
-        "typescript-sort-keys/string-enum": [
-          2,
-          "asc",
-          { caseSensitive: false, natural: true }
-        ]
       }
     }
   ]
