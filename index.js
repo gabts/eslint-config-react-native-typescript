@@ -47,7 +47,7 @@ module.exports = {
       ],
       files: ["*.ts", "*.tsx"],
       parser: "@typescript-eslint/parser",
-      plugins: ["@typescript-eslint/eslint-plugin", "typescript-sort-keys"],
+      plugins: ["@typescript-eslint/eslint-plugin"],
       rules: {
         "@typescript-eslint/explicit-function-return-type": [
           1,
