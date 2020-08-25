@@ -4,7 +4,7 @@ module.exports = {
     "@react-native-community/eslint-config",
     "plugin:import/typescript",
     "plugin:react/recommended",
-    "plugin:react-native-a11y/recommended",
+    "plugin:react-native-a11y/all",
     "prettier",
     "prettier/react"
   ],
