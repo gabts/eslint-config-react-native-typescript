@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-react-native-typescript",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "description": "Eslint config for TypeScript React Native projects",
   "author": "Gabriel Toll Stålbom <gabtost@gmail.com>",
   "license": "MIT",
