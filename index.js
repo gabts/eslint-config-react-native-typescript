@@ -25,6 +25,9 @@ module.exports = {
     // eslint-plugin-import-order-alphabetical
     "import-order-alphabetical/order": 1,
 
+    // eslint-plugin-prettier
+    "prettier/prettier": 0,
+
     // eslint-plugin-react
     "react/prop-types": 0,
 
