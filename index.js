@@ -50,10 +50,11 @@ module.exports = {
           1,
           { allowExpressions: true, allowTypedFunctionExpressions: true }
         ],
+        "@typescript-eslint/explicit-module-boundry-types": 0,
         "@typescript-eslint/no-empty-interface": 1,
         "@typescript-eslint/no-unused-vars": [1, { argsIgnorePattern: "^_" }],
         "@typescript-eslint/no-use-before-define": 0,
-        "no-unused-vars": 0,
+        "no-unused-vars": 0
       }
     }
   ]
