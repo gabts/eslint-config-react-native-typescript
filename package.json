@@ -22,17 +22,17 @@
     "url": "https://github.com/gabts/eslint-config-react-native-typescript/issues"
   },
   "peerDependencies": {
-    "eslint": "^6.0.0",
-    "typescript": "^3.2.0"
+    "eslint": "*",
+    "typescript": "*"
   },
   "dependencies": {
     "@react-native-community/eslint-config": "^2.0.0",
-    "@typescript-eslint/parser": "3.1.0",
-    "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-import": "^2.22.0",
+    "@typescript-eslint/parser": "^4.15.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-import-order-alphabetical": "^1.0.1",
-    "eslint-plugin-prettier": "^3.1.4",
-    "eslint-plugin-react-native-a11y": "^2.0.2"
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react-native-a11y": "^2.0.4"
   },
   "devDependencies": {
     "prettier": "^2.1.0"
